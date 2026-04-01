@@ -49,4 +49,4 @@ project/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+git clone https://github.com/daniyalmuneer7/product-listing-website
